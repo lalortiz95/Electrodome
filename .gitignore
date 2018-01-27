@@ -1,2 +1,5 @@
 
 *.meta
+Assets/Art.meta
+*.meta
+Temp/UnityLockfile
